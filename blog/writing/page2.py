@@ -12,3 +12,7 @@ def app():
     """
 
     st.text('stuff')
+
+
+def test():
+    print("poop2")
